@@ -1,6 +1,4 @@
-misc.xml
-modules.xml
-over_git.iml
+*.xml
 
 # Editors
 .vscode/
